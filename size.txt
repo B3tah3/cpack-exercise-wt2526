@@ -1,0 +1,2 @@
+2.5M	cpackexample_1_amd64_stripped.deb
+4.4M	cpackexample_1_amd64.deb
